@@ -1,0 +1,29 @@
+html,body, div{
+    margin: 0px;
+    background: #0B5345  ;
+    color: white;
+    padding: 0px;
+
+   
+}
+
+.titulo{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.carta{
+    position: relative;
+    width: 20vh;
+    left: 100px;
+    margin-left: -75px;
+    
+
+}
+.botones{
+    background-color: white;
+    
+}
+#dealer-cartas, #jugador-cartas{
+    height: 230px;
+}
